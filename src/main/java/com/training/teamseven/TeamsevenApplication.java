@@ -9,5 +9,5 @@ public class TeamsevenApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TeamsevenApplication.class, args);
 	}
-
+	int add;
 }
